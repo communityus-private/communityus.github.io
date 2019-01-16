@@ -2,7 +2,7 @@
 
 **A by-product of community**
 
-_Leading the charge, whilst remaining steadfast to your core business processes -- raise the bar using open source and freely licensed tools and services_ 
+_Raise the bar while remaining steadfast to your core business processes using open source and freely licensed tools and services_ 
 
 ## What We Do:
 **We bring people and things together - first here at home and then into surrounding areas; business and public sector.** ```create github issue to get started```
