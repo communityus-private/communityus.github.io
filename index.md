@@ -9,4 +9,4 @@ _Leading the charge, whilst remaining steadfast to your core business processes 
 
 We will provide free access to tools usually reserved for enterprise corps. With a simple approach of Play/Sow/Reap you will get equiped with knowledge you need to help deploy new services to your sector. 
 
-Tech isn't the star, your community is the start (the people!) Our tech and by extension the tools we provide and services featured are simply a manifestation of the communities we serve.
+Tech isn't the star, your community is the star (the people!) Our tech and by extension the tools we provide and services featured are simply a manifestation of the communities we serve.
