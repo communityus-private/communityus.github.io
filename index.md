@@ -1,8 +1,11 @@
-## Manifesto or Antithesis?
+## About Us:
 
-**Good artists copy, great artists steal.** (Yates et al. 1967)
+**A byproduct of community**
 
-_Playing around with the idea of an open company and exploring what that means. Our world is already so bound and licensed - everyone wants their piece of the pie.  Our goal is to let everyone eat their pie. We provide the tin the pie is cooked in and endeavor to comply with all applicable standards. We don't provide the table you eat the pie on, we encourage you to use a cloth napkin. Where is the spoon and the fork in this allegory? Remember there is no spoon. Forks are welcome and encouraged._ However we have nothing against tables, and encourage you to shop around and try several tables during a lifetime. We also don’t take ourselves too seriously. Yes this is all metaphor for what we do.
+_Leading the charge, whilst remaining steadfast to your core business processes -- Let us elevate your organization using open source and freely licensed solutions_ 
 
+To enable a biz/org/church to have access to tools usually reserved for enterprise corps. With a simple approach of Play/Sow/Reap. 
 
-**Good code is forked, great code is stolen.** ```tongue-in-cheek```
+Tech isn't the star, your community is (the people!) our tech and by extension the tools we provide and services featured are simply a manifestation of the community. 
+
+**We build and maintain solutions for RHEL and upsteam. Here to serve. We bring people and things together - first here at home and then into surrounding areas; business and public sector.** ```create github issue to get started```
