@@ -1,11 +1,12 @@
 ## About Us:
 
-**A byproduct of community**
+**A by-product of community**
 
-_Leading the charge, whilst remaining steadfast to your core business processes -- Let us elevate your organization using open source and freely licensed solutions_ 
+_Leading the charge, whilst remaining steadfast to your core business processes -- raise the bar using open source and freely licensed tools and services_ 
 
-To enable a biz/org/church to have access to tools usually reserved for enterprise corps. With a simple approach of Play/Sow/Reap. 
+## What We Do:
+**We bring people and things together - first here at home and then into surrounding areas; business and public sector.** ```create github issue to get started```
 
-Tech isn't the star, your community is (the people!) our tech and by extension the tools we provide and services featured are simply a manifestation of the community. 
+We will provide free access to tools usually reserved for enterprise corps. With a simple approach of Play/Sow/Reap you will get equiped with knowledge you need to help deploy new services to your sector. 
 
-**We build and maintain solutions for RHEL and upsteam. Here to serve. We bring people and things together - first here at home and then into surrounding areas; business and public sector.** ```create github issue to get started```
+Tech isn't the star, your community is the start (the people!) Our tech and by extension the tools we provide and services featured are simply a manifestation of the communities we serve.
