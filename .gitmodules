@@ -7,3 +7,9 @@
 [submodule "Gamekit3D"]
 	path = Gamekit3D
 	url = https://github.com/communityus/Gamekit3D.git
+[submodule "obstacle-tower-env"]
+	path = obstacle-tower-env
+	url = https://github.com/communityus/obstacle-tower-env.git
+[submodule "obstacle-tower-challenge"]
+	path = obstacle-tower-challenge
+	url = https://github.com/communityus/obstacle-tower-challenge.git
