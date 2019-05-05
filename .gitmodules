@@ -25,3 +25,9 @@
 [submodule "UnityPlayground"]
 	path = UnityPlayground
 	url = https://github.com/communityus/UnityPlayground.git
+[submodule "FontainebleauDemo"]
+	path = FontainebleauDemo
+	url = https://github.com/communityus/FontainebleauDemo.git
+[submodule "Standard-Assets-Characters"]
+	path = Standard-Assets-Characters
+	url = https://github.com/Unity-Technologies/Standard-Assets-Characters.git
