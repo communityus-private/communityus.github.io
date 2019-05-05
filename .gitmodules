@@ -19,3 +19,9 @@
 [submodule "PrefabWorkflows_SpiderRobots"]
 	path = PrefabWorkflows_SpiderRobots
 	url = https://github.com/communityus/PrefabWorkflows_SpiderRobots
+[submodule "VisualEffectGraph-Samples"]
+	path = VisualEffectGraph-Samples
+	url = https://github.com/communityus/VisualEffectGraph-Samples.git
+[submodule "UnityPlayground"]
+	path = UnityPlayground
+	url = https://github.com/communityus/UnityPlayground.git
