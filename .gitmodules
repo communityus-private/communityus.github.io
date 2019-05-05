@@ -4,3 +4,6 @@
 [submodule "FPSSample"]
 	path = FPSSample
 	url = https://github.com/communityus/FPSSample.git
+[submodule "Gamekit3D"]
+	path = Gamekit3D
+	url = https://github.com/communityus/Gamekit3D.git
