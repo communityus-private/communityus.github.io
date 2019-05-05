@@ -13,3 +13,9 @@
 [submodule "obstacle-tower-challenge"]
 	path = obstacle-tower-challenge
 	url = https://github.com/communityus/obstacle-tower-challenge.git
+[submodule "PrefabWorkflows_3DGameKit"]
+	path = PrefabWorkflows_3DGameKit
+	url = https://github.com/communityus/PrefabWorkflows_3DGameKit
+[submodule "PrefabWorkflows_SpiderRobots"]
+	path = PrefabWorkflows_SpiderRobots
+	url = https://github.com/communityus/PrefabWorkflows_SpiderRobots
