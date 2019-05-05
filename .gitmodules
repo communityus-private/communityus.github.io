@@ -1,3 +1,6 @@
 [submodule "AngryBots2"]
 	path = AngryBots2
 	url = https://github.com/communityus/AngryBots2.git
+[submodule "FPSSample"]
+	path = FPSSample
+	url = https://github.com/communityus/FPSSample.git
