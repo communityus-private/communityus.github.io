@@ -1,6 +1,6 @@
 ## About Us:
 
-//lets update this.
+//lets update this sometime this month.
 
 **A by-product of community**
 
