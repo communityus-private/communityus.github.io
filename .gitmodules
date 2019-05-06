@@ -31,3 +31,6 @@
 [submodule "Standard-Assets-Characters"]
 	path = Standard-Assets-Characters
 	url = https://github.com/Unity-Technologies/Standard-Assets-Characters.git
+[submodule "Moondust"]
+	path = Moondust
+	url = https://github.com/communityus/Moondust.git
