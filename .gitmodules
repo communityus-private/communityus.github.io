@@ -1,36 +1,36 @@
 [submodule "AngryBots2"]
 	path = AngryBots2
-	url = https://github.com/communityus/AngryBots2.git
+	url = https://github.com/communityus-private/AngryBots2.git
 [submodule "FPSSample"]
 	path = FPSSample
-	url = https://github.com/communityus/FPSSample.git
+	url = https://github.com/communityus-private/FPSSample.git
 [submodule "Gamekit3D"]
 	path = Gamekit3D
-	url = https://github.com/communityus/Gamekit3D.git
+	url = https://github.com/communityus-private/Gamekit3D.git
 [submodule "obstacle-tower-env"]
 	path = obstacle-tower-env
-	url = https://github.com/communityus/obstacle-tower-env.git
+	url = https://github.com/communityus-private/obstacle-tower-env.git
 [submodule "obstacle-tower-challenge"]
 	path = obstacle-tower-challenge
-	url = https://github.com/communityus/obstacle-tower-challenge.git
+	url = https://github.com/communityus-private/obstacle-tower-challenge.git
 [submodule "PrefabWorkflows_3DGameKit"]
 	path = PrefabWorkflows_3DGameKit
-	url = https://github.com/communityus/PrefabWorkflows_3DGameKit
+	url = https://github.com/communityus-private/PrefabWorkflows_3DGameKit
 [submodule "PrefabWorkflows_SpiderRobots"]
 	path = PrefabWorkflows_SpiderRobots
-	url = https://github.com/communityus/PrefabWorkflows_SpiderRobots
+	url = https://github.com/communityus-private/PrefabWorkflows_SpiderRobots
 [submodule "VisualEffectGraph-Samples"]
 	path = VisualEffectGraph-Samples
-	url = https://github.com/communityus/VisualEffectGraph-Samples.git
+	url = https://github.com/communityus-private/VisualEffectGraph-Samples.git
 [submodule "UnityPlayground"]
 	path = UnityPlayground
-	url = https://github.com/communityus/UnityPlayground.git
+	url = https://github.com/communityus-private/UnityPlayground.git
 [submodule "FontainebleauDemo"]
 	path = FontainebleauDemo
-	url = https://github.com/communityus/FontainebleauDemo.git
+	url = https://github.com/communityus-private/FontainebleauDemo.git
 [submodule "Standard-Assets-Characters"]
 	path = Standard-Assets-Characters
-	url = https://github.com/Unity-Technologies/Standard-Assets-Characters.git
+	url = https://github.com/communityus-private/Standard-Assets-Characters.git
 [submodule "Moondust"]
 	path = Moondust
-	url = https://github.com/communityus/Moondust.git
+	url = https://github.com/communityus-private/Moondust.git
